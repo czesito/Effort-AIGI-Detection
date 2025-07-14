@@ -1,6 +1,4 @@
 from .clip_models import ClipModel
-from .siglip_models import SigLIPModel
-from .beitv2_models import BEiTv2Model
 
 
 VALID_NAMES = {
@@ -15,10 +13,6 @@ VALID_NAMES = {
 def get_model(name, opt):
     assert name in VALID_NAMES.keys()
     if name.startswith("CLIP:"):
-        return ClipModel(VALID_NAMES[name], opt) 
-    elif name.startswith("SigLIP:"):
-        return SigLIPModel(VALID_NAMES[name], opt)
-    elif name.startswith("BEiTv2:"):
-        return BEiTv2Model(VALID_NAMES[name], opt)
+        return ClipModel(VALID_NAMES[name], opt)
     else:
         assert False 
