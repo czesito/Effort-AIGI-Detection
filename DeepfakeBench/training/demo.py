@@ -20,9 +20,14 @@ from imutils import face_utils
 from skimage import transform as trans
 import torchvision.transforms as T
 import os
+import sys
+import json
+import csv
 from os.path import join
-from typing import Tuple, List
+from typing import Tuple, List, Dict, Optional
 from pathlib import Path
+from datetime import datetime
+from sklearn.metrics import confusion_matrix, accuracy_score, precision_score, recall_score, f1_score, roc_auc_score
 
 """
 Usage:
@@ -197,27 +202,91 @@ def infer_single_image(
     face_tensor = preprocess_face(face_aligned).to(device)
     data = {"image": face_tensor, "label": torch.tensor([0]).to(device)}
     preds = inference(model, data)
-    cls_out = preds["cls"].squeeze().cpu().numpy()   # 0/1
-    prob = preds["prob"].squeeze().cpu().numpy()     # prob
+    
+    # Handle different output formats
+    cls_out = preds["cls"].squeeze().cpu().numpy()
+    prob = preds["prob"].squeeze().cpu().numpy()
+    
+    # Convert to scalar - take first element if array, or convert if already scalar
+    if isinstance(cls_out, np.ndarray):
+        if cls_out.size == 1:
+            cls_out = cls_out.item()
+        else:
+            # For multi-class output, take argmax
+            cls_out = int(np.argmax(cls_out))
+    else:
+        cls_out = int(cls_out)
+    
+    if isinstance(prob, np.ndarray):
+        if prob.size == 1:
+            prob = prob.item()
+        else:
+            # For multi-class prob, take the probability of class 1 (fake)
+            # If binary, prob might be [prob_real, prob_fake]
+            if prob.size == 2:
+                prob = float(prob[1])  # probability of fake class
+            else:
+                prob = float(np.max(prob))
+    else:
+        prob = float(prob)
+    
     return cls_out, prob
 
 
 IMG_EXTS = {'.jpg', '.jpeg', '.png', '.bmp', '.tiff', '.webp'}
-def collect_image_paths(path_str: str) -> List[Path]:
+
+def collect_image_paths_with_labels(path_str: str) -> List[Tuple[Path, int]]:
+    """
+    Collect image paths with ground truth labels based on folder structure.
+    Expected structure:
+      path_str/
+        real/
+          image1.jpg
+          image2.jpg
+        fake/
+          image3.jpg
+          image4.jpg
+    
+    Returns:
+        List of tuples: (image_path, label) where label is 0 for real, 1 for fake
+    """
     p = Path(path_str)
     if not p.exists():
         raise FileNotFoundError(f"[Error] Path does not exist: {path_str}")
 
+    # Check if this is a single file
     if p.is_file():
         if p.suffix.lower() not in IMG_EXTS:
             raise ValueError(f"[Error] Invalid image format: {p.name}")
-        return [p]
+        # No ground truth available for single file
+        return [(p, None)]
 
-    img_list = [fp for fp in p.iterdir() if fp.is_file() and fp.suffix.lower() in IMG_EXTS]
-    if not img_list:
+    # Check for real/fake subdirectories
+    real_dir = p / 'real'
+    fake_dir = p / 'fake'
+    
+    img_label_list = []
+    
+    if real_dir.exists() and real_dir.is_dir():
+        real_imgs = [fp for fp in real_dir.iterdir() if fp.is_file() and fp.suffix.lower() in IMG_EXTS]
+        img_label_list.extend([(fp, 0) for fp in real_imgs])
+        print(f"[✓] Found {len(real_imgs)} images in 'real' folder")
+    
+    if fake_dir.exists() and fake_dir.is_dir():
+        fake_imgs = [fp for fp in fake_dir.iterdir() if fp.is_file() and fp.suffix.lower() in IMG_EXTS]
+        img_label_list.extend([(fp, 1) for fp in fake_imgs])
+        print(f"[✓] Found {len(fake_imgs)} images in 'fake' folder")
+    
+    # If no real/fake subdirectories, just collect all images without labels
+    if not img_label_list:
+        print("[Warning] No 'real' or 'fake' subdirectories found. Collecting all images without ground truth labels.")
+        img_list = [fp for fp in p.iterdir() if fp.is_file() and fp.suffix.lower() in IMG_EXTS]
+        img_label_list = [(fp, None) for fp in img_list]
+    
+    if not img_label_list:
         raise RuntimeError(f"[Error] No valid image files found in directory: {path_str}")
 
-    return sorted(img_list)
+    return sorted(img_label_list, key=lambda x: x[0])
 
 
 def parse_args():
@@ -229,10 +298,130 @@ def parse_args():
     p.add_argument("--weights", required=True,
                    help="Detector 预训练权重")
     p.add_argument("--image", required=True,
-                   help="tested image")
+                   help="Path to image file or directory (with 'real' and 'fake' subdirectories for ground truth)")
     p.add_argument("--landmark_model", default=False,
                    help="dlib 81 landmarks dat 文件 / 如果不需要裁剪人脸就是False")
+    p.add_argument("--output", default=None,
+                   help="Output file path for results (e.g., results.csv or results.json)")
+    p.add_argument("--output_format", default="csv", choices=["csv", "json"],
+                   help="Output format: csv or json (default: csv)")
     return p.parse_args()
+
+
+def export_results(results: List[Dict], output_path: str, format: str = "csv"):
+    """Export inference results to file"""
+    output_path = Path(output_path)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    
+    if format == "csv":
+        with open(output_path, 'w', newline='', encoding='utf-8') as f:
+            if results:
+                writer = csv.DictWriter(f, fieldnames=results[0].keys())
+                writer.writeheader()
+                writer.writerows(results)
+        print(f"\n[✓] Results exported to: {output_path}")
+    
+    elif format == "json":
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump({
+                "timestamp": datetime.now().isoformat(),
+                "total_images": len(results),
+                "results": results
+            }, f, indent=2)
+        print(f"\n[✓] Results exported to: {output_path}")
+
+
+def calculate_metrics(results: List[Dict]):
+    """Calculate and display confusion matrix and metrics"""
+    # Extract labels from results (ground_truth field)
+    y_true = []
+    y_pred = []
+    y_prob = []
+    
+    matched = 0
+    for result in results:
+        if result['status'] != 'success':
+            continue
+        if result.get('ground_truth') is None:
+            continue
+        
+        y_true.append(result['ground_truth'])
+        y_pred.append(result['prediction'])
+        y_prob.append(result['fake_probability'])
+        matched += 1
+    
+    if matched == 0:
+        print("\n[Warning] No ground truth labels available for metric calculation")
+        return None
+    
+    # Calculate confusion matrix
+    cm = confusion_matrix(y_true, y_pred)
+    tn, fp, fn, tp = cm.ravel()
+    
+    # Calculate metrics
+    accuracy = accuracy_score(y_true, y_pred)
+    precision = precision_score(y_true, y_pred, zero_division=0)
+    recall = recall_score(y_true, y_pred, zero_division=0)
+    f1 = f1_score(y_true, y_pred, zero_division=0)
+    
+    # Calculate specificity
+    specificity = tn / (tn + fp) if (tn + fp) > 0 else 0
+    
+    # Calculate AUC if possible
+    try:
+        auc = roc_auc_score(y_true, y_prob)
+    except:
+        auc = None
+    
+    metrics = {
+        'confusion_matrix': cm,
+        'true_negatives': int(tn),
+        'false_positives': int(fp),
+        'false_negatives': int(fn),
+        'true_positives': int(tp),
+        'accuracy': float(accuracy),
+        'precision': float(precision),
+        'recall': float(recall),
+        'specificity': float(specificity),
+        'f1_score': float(f1),
+        'auc': float(auc) if auc is not None else None,
+        'matched_samples': matched
+    }
+    
+    return metrics
+
+
+def print_metrics(metrics: Dict):
+    """Pretty print metrics and confusion matrix"""
+    if metrics is None:
+        return
+    
+    cm = metrics['confusion_matrix']
+    
+    print(f"\n{'='*60}")
+    print("CONFUSION MATRIX:")
+    print(f"{'='*60}")
+    print(f"                  Predicted")
+    print(f"                Real    Fake")
+    print(f"Actual  Real    {cm[0,0]:4d}    {cm[0,1]:4d}")
+    print(f"        Fake    {cm[1,0]:4d}    {cm[1,1]:4d}")
+    print(f"{'='*60}")
+    
+    print(f"\nMETRICS (based on {metrics['matched_samples']} matched samples):")
+    print(f"{'='*60}")
+    print(f"  Accuracy:      {metrics['accuracy']:.4f} ({metrics['accuracy']*100:.2f}%)")
+    print(f"  Precision:     {metrics['precision']:.4f} ({metrics['precision']*100:.2f}%)")
+    print(f"  Recall/TPR:    {metrics['recall']:.4f} ({metrics['recall']*100:.2f}%)")
+    print(f"  Specificity:   {metrics['specificity']:.4f} ({metrics['specificity']*100:.2f}%)")
+    print(f"  F1-Score:      {metrics['f1_score']:.4f}")
+    if metrics['auc'] is not None:
+        print(f"  AUC:           {metrics['auc']:.4f}")
+    print(f"{'='*60}")
+    print(f"\nDetailed Counts:")
+    print(f"  True Positives  (TP): {metrics['true_positives']}")
+    print(f"  True Negatives  (TN): {metrics['true_negatives']}")
+    print(f"  False Positives (FP): {metrics['false_positives']}")
+    print(f"  False Negatives (FN): {metrics['false_negatives']}")
 
 
 def main():
@@ -245,23 +434,101 @@ def main():
     else:
         face_det, shape_predictor = None, None
 
-    img_paths = collect_image_paths(args.image)
-    multiple = len(img_paths) > 1
-    if multiple:
-        print(f"Collected {len(img_paths)} images in total，let's infer them...\n")
-
-    # ---------- infer ----------
-    for idx, img_path in enumerate(img_paths, 1):
+    # Collect images with labels from folder structure
+    img_label_pairs = collect_image_paths_with_labels(args.image)
+    has_ground_truth = any(label is not None for _, label in img_label_pairs)
+    
+    # Prepare output file path
+    if args.output is None:
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        output_dir = Path("inference_results")
+        output_dir.mkdir(exist_ok=True)
+        args.output = output_dir / f"results_{timestamp}.{args.output_format}"
+    
+    print(f"[✓] Processing {len(img_label_pairs)} image(s)...")
+    if has_ground_truth:
+        print(f"[✓] Ground truth labels detected from folder structure")
+    
+    # Store results
+    results = []
+    
+    # ---------- infer with progress bar ----------
+    for img_path, gt_label in tqdm(img_label_pairs, desc="Inferencing", unit="img"):
         img = cv2.imread(str(img_path))
         if img is None:
-            print(f"[Warning] loading wrong，skip: {img_path}", file=sys.stderr)
+            print(f"\n[Warning] Failed to load image, skipping: {img_path}", file=sys.stderr)
+            results.append({
+                "filename": img_path.name,
+                "path": str(img_path),
+                "prediction": None,
+                "fake_probability": None,
+                "ground_truth": gt_label,
+                "status": "error"
+            })
             continue
 
         cls, prob = infer_single_image(img, face_det, shape_predictor, model)
-        print(
-            f"[{idx}/{len(img_paths)}] {img_path.name:>30} | Pred Label: {cls} "
-            f"(0=Real, 1=Fake) | Fake Prob: {prob:.4f}"
-        )
+        
+        result = {
+            "filename": img_path.name,
+            "path": str(img_path),
+            "prediction": cls,
+            "label": "Fake" if cls == 1 else "Real",
+            "fake_probability": prob,
+            "status": "success"
+        }
+        
+        # Add ground truth if available
+        if gt_label is not None:
+            result["ground_truth"] = gt_label
+            result["ground_truth_label"] = "Fake" if gt_label == 1 else "Real"
+            result["correct"] = cls == gt_label
+        
+        results.append(result)
+    
+    # Export results
+    export_results(results, args.output, args.output_format)
+    
+    # Calculate and display metrics if ground truth is available
+    if has_ground_truth:
+        metrics = calculate_metrics(results)
+        if metrics:
+            print_metrics(metrics)
+            
+            # Export metrics separately
+            metrics_path = Path(args.output).parent / f"{Path(args.output).stem}_metrics.json"
+            # Convert numpy arrays to lists for JSON serialization
+            metrics_export = {k: (v.tolist() if isinstance(v, np.ndarray) else v) 
+                            for k, v in metrics.items()}
+            with open(metrics_path, 'w') as f:
+                json.dump(metrics_export, f, indent=2)
+            print(f"\n[✓] Metrics exported to: {metrics_path}")
+    
+    # Print summary
+    successful = sum(1 for r in results if r["status"] == "success")
+    failed = len(results) - successful
+    fake_count = sum(1 for r in results if r.get("prediction") == 1)
+    real_count = sum(1 for r in results if r.get("prediction") == 0)
+    
+    print(f"\n{'='*60}")
+    print(f"SUMMARY:")
+    print(f"{'='*60}")
+    print(f"  Total images:      {len(results)}")
+    print(f"  Successful:        {successful}")
+    print(f"  Failed:            {failed}")
+    print(f"  Predicted as Real: {real_count}")
+    print(f"  Predicted as Fake: {fake_count}")
+    
+    if has_ground_truth:
+        correct_count = sum(1 for r in results if r.get("correct") == True)
+        total_with_gt = sum(1 for r in results if r.get("ground_truth") is not None and r["status"] == "success")
+        if total_with_gt > 0:
+            accuracy = correct_count / total_with_gt
+            print(f"  Correct:           {correct_count}/{total_with_gt} ({accuracy*100:.2f}%)")
+    
+    print(f"{'='*60}")
+
+
 
 
 if __name__ == "__main__":
