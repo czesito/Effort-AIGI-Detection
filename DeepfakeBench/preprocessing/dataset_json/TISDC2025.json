@@ -1,0 +1,3378 @@
+{
+  "TISDC2025": {
+    "0": {
+      "test": {
+        "TISDC2025_real_產品_P71226870_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71226870_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51821105_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51821105_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L52621447_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L52621447_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V70725927_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V70725927_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51420911_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51420911_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P61722689_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P61722689_2.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F70725686_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F70725686_2.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F62523860_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F62523860_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L70625384_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L70625384_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P61822913_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P61822913_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P70926185_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P70926185_2.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F61122053_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F61122053_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71532465_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71532465_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71427070_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71427070_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51921139_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51921139_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71427076_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71427076_3.jpeg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L70625384_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L70625384_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P70725808_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P70725808_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71532250_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71532250_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P70926185_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P70926185_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P61322232_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P61322232_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P51621001_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P51621001_2.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F62924367_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F62924367_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71427183_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71427183_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V60321714_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V60321714_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71528067_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71528067_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51721046_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51721046_2.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71532253_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71532253_2.png"
+          ]
+        },
+        "TISDC2025_real_視覺_V52121275_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V52121275_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P61022015_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P61022015_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51621031_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51621031_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V52121258_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V52121258_3.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71532658_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71532658_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71532459_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71532459_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L70425027_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L70425027_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71532678_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71532678_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P51520985_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P51520985_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71532250_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71532250_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L51821118_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L51821118_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71532250_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71532250_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P61322232_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P61322232_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71126724_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71126724_1.jpeg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L62824258_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L62824258_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71532436_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71532436_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71532188_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71532188_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V70324849_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V70324849_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71026362_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71026362_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51520963_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51520963_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L62423695_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L62423695_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L62423695_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L62423695_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F52421422_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F52421422_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71532364_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71532364_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71026402_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71026402_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P60921972_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P60921972_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71529635_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71529635_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P62423726_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P62423726_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P70926129_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P70926129_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L70725785_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L70725785_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V60621821_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V60621821_3.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F62323633_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F62323633_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P52121228_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P52121228_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P70425019_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P70425019_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71427295_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71427295_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L62824258_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L62824258_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P52121259_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P52121259_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L70725785_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L70725785_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P70926202_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P70926202_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L62523901_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L62523901_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71532658_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71532658_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71532106_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71532106_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L61522430_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L61522430_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51721046_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51721046_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P60721845_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P60721845_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71532181_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71532181_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P70926172_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P70926172_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F63024516_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F63024516_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71427102_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71427102_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P52121269_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P52121269_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71427160_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71427160_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F52221338_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F52221338_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L61822861_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L61822861_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51921121_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51921121_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71126588_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71126588_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51520956_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51520956_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51320833_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51320833_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P52121269_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P52121269_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P62824281_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P62824281_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51520944_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51520944_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71427160_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71427160_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71532133_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71532133_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L60321696_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L60321696_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V52121282_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V52121282_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V52321370_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V52321370_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P52621482_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P52621482_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L62824240_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L62824240_2.png"
+          ]
+        },
+        "TISDC2025_real_視覺_V70525146_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V70525146_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71427202_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71427202_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71527555_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71527555_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P51921141_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P51921141_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51520977_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51520977_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L70425032_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L70425032_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V52321370_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V52321370_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71026411_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71026411_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71532195_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71532195_2.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F63024516_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F63024516_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71532335_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71532335_1.jpeg"
+          ]
+        },
+        "TISDC2025_real_視覺_V60621815_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V60621815_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L62323653_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L62323653_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P61822913_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P61822913_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71532507_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71532507_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P52621482_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P52621482_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V61122105_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V61122105_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P61722689_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P61722689_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V62323626_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V62323626_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51420915_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51420915_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71427214_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71427214_2.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F62323633_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F62323633_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51320833_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51320833_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L52621448_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L52621448_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V70124666_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V70124666_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V52121258_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V52121258_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P70425019_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P70425019_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L52621450_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L52621450_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V63024525_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V63024525_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71532156_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71532156_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71532212_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71532212_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L63024512_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L63024512_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71532465_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71532465_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F70124575_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F70124575_1.jpeg"
+          ]
+        },
+        "TISDC2025_real_產品_P71532286_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71532286_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71532364_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71532364_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L70725935_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L70725935_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V61422422_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V61422422_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L51821118_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L51821118_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71427183_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71427183_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L61822861_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L61822861_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F61122061_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F61122061_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51821105_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51821105_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51921135_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51921135_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L61823115_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L61823115_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71532466_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71532466_2.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71126745_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71126745_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71527460_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71527460_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V62223526_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V62223526_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L61422405_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L61422405_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71427214_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71427214_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71532133_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71532133_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51220816_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51220816_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71527558_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71527558_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51821107_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51821107_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P63024521_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P63024521_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L70725935_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L70725935_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51520956_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51520956_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71532112_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71532112_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71026362_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71026362_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71527428_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71527428_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51621031_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51621031_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71326988_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71326988_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51520996_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51520996_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L70725785_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L70725785_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V62323665_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V62323665_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P62423806_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P62423806_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71532507_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71532507_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L62423695_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L62423695_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V60321714_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V60321714_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71326885_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71326885_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71026411_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71026411_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V60421755_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V60421755_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71126588_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71126588_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P70926129_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P70926129_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L61823115_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L61823115_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P62924361_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P62924361_2.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71532658_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71532658_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71427366_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71427366_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P51621001_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P51621001_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71126745_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71126745_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71532419_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71532419_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V52321370_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V52321370_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71532338_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71532338_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71427131_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71427131_2.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71527422_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71527422_3.jpeg"
+          ]
+        },
+        "TISDC2025_real_產品_P61923233_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P61923233_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71427118_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71427118_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51821114_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51821114_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P52121269_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P52121269_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L70425034_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L70425034_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71532156_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71532156_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71427070_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71427070_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51921121_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51921121_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71427102_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71427102_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L70725935_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L70725935_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71527558_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71527558_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71532181_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71532181_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V60921917_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V60921917_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L70425032_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L70425032_3.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F52221338_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F52221338_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L70425064_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L70425064_3.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71327017_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71327017_1.JPG"
+          ]
+        },
+        "TISDC2025_real_視覺_V51520996_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51520996_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71026362_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71026362_3.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71427366_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71427366_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P61923233_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P61923233_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L61822832_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L61822832_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V62323626_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V62323626_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P70725808_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P70725808_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L70425032_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L70425032_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V60821897_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V60821897_2.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F62323633_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F62323633_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P62423806_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P62423806_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51520965_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51520965_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L62323653_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L62323653_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V70224790_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V70224790_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P51921136_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P51921136_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71532335_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71532335_2.jpeg"
+          ]
+        },
+        "TISDC2025_real_時尚_F61122067_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F61122067_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71532374_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71532374_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71532106_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71532106_3.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F61122053_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F61122053_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51420911_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51420911_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51621006_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51621006_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51520963_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51520963_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L52621447_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L52621447_2.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F63024516_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F63024516_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51520956_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51520956_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71532660_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71532660_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51821105_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51821105_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P51921136_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P51921136_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51520944_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51520944_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71532466_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71532466_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71326936_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71326936_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71527431_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71527431_2.jpeg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71427118_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71427118_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71427352_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71427352_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71532223_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71532223_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F62623959_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F62623959_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71427160_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71427160_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P70926172_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P70926172_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V61622650_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V61622650_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V60621815_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V60621815_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51320833_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51320833_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L70625384_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L70625384_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F60221672_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F60221672_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V62223526_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V62223526_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71326905_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71326905_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P52121259_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P52121259_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71226870_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71226870_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V70424969_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V70424969_1.png"
+          ]
+        },
+        "TISDC2025_real_時尚_F71527431_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71527431_1.jpeg"
+          ]
+        },
+        "TISDC2025_real_產品_P62223507_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P62223507_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71532112_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71532112_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71427202_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71427202_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71527555_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71527555_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L52621450_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L52621450_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71126738_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71126738_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P61021982_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P61021982_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F62523860_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F62523860_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V60621821_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V60621821_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71427202_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71427202_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71326885_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71326885_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71427131_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71427131_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51220816_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51220816_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P52121228_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P52121228_3.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71126721_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71126721_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L70425064_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L70425064_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P62924361_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P62924361_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P70926202_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P70926202_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51721046_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51721046_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V60321714_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V60321714_3.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F70725686_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F70725686_3.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F62623959_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F62623959_2.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F62924367_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F62924367_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71226870_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71226870_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P62423726_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P62423726_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L61522523_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L61522523_3.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F42800003_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F42800003_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71532459_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71532459_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71532660_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71532660_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51621031_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51621031_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71532580_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71532580_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51921121_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51921121_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P62123490_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P62123490_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71532164_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71532164_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71532436_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71532436_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51821107_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51821107_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71532465_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71532465_3.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F62724217_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F62724217_2.png"
+          ]
+        },
+        "TISDC2025_real_產品_P62824281_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P62824281_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V70224840_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V70224840_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P61822913_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P61822913_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71527558_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71527558_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V70124666_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V70124666_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51621006_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51621006_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P70926202_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P70926202_2.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71529635_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71529635_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P52621482_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P52621482_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71532195_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71532195_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71126721_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71126721_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L51821118_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L51821118_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P70425019_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P70425019_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V62323665_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V62323665_3.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71532660_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71532660_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V70224840_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V70224840_2.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71427352_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71427352_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V70525114_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V70525114_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51520965_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51520965_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P61722689_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P61722689_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P52121259_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P52121259_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L62523901_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L62523901_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V70224790_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V70224790_3.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71126721_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71126721_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71532112_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71532112_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71327003_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71327003_3.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F60221672_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F60221672_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V70826010_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V70826010_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51520977_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51520977_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V62223526_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V62223526_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V61122105_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V61122105_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71532507_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71532507_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V62323626_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V62323626_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71126724_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71126724_3.jpeg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71532188_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71532188_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71326988_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71326988_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V70124666_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V70124666_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V70725927_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V70725927_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F61122067_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F61122067_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71532164_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71532164_3.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F61122053_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F61122053_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51520946_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51520946_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P61021982_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P61021982_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71532466_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71532466_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L63024512_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L63024512_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71527555_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71527555_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71532286_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71532286_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71532155_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71532155_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P61022015_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P61022015_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51420915_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51420915_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V52121275_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V52121275_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L70425027_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L70425027_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P60721845_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P60721845_3.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71126745_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71126745_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L61522523_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L61522523_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71527428_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71527428_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F62924367_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F62924367_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L61422405_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L61422405_3.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71532253_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71532253_3.jpeg"
+          ]
+        },
+        "TISDC2025_real_時尚_F62423804_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F62423804_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71532364_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71532364_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71532338_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71532338_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51821114_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51821114_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P62423726_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P62423726_3.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F61122061_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F61122061_2.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F61622661_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F61622661_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L62824240_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L62824240_1.png"
+          ]
+        },
+        "TISDC2025_real_產品_P71527428_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71527428_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71527460_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71527460_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51520965_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51520965_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71126738_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71126738_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71326943_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71326943_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L60321696_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L60321696_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V63024525_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V63024525_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V61923311_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V61923311_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L62824240_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L62824240_3.png"
+          ]
+        },
+        "TISDC2025_real_產品_P51921141_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P51921141_2.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71529635_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71529635_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V61122105_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V61122105_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V52121258_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V52121258_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L62323653_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L62323653_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L70425064_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L70425064_2.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71427352_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71427352_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71532580_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71532580_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71532580_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71532580_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71427118_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71427118_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L70425034_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L70425034_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71528067_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71528067_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51420911_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51420911_1.png"
+          ]
+        },
+        "TISDC2025_real_產品_P60721845_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P60721845_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71532133_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71532133_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71427070_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71427070_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P62223507_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P62223507_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P61022015_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P61022015_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71532212_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71532212_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V52121282_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V52121282_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L61522523_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L61522523_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P70926127_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P70926127_3.png"
+          ]
+        },
+        "TISDC2025_real_產品_P71532374_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71532374_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51821114_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51821114_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V60821897_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V60821897_3.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71326988_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71326988_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P60121611_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P60121611_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L61422405_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L61422405_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F61622661_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F61622661_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P62223507_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P62223507_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71427214_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71427214_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51520963_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51520963_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V70725927_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V70725927_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V61422422_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V61422422_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P51721039_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P51721039_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71126549_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71126549_1.png"
+          ]
+        },
+        "TISDC2025_real_產品_P51621001_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P51621001_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L62824258_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L62824258_3.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F62423804_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F62423804_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71026402_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71026402_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V61923311_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V61923311_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P70926127_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P70926127_2.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F61122067_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F61122067_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P51721039_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P51721039_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71126588_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71126588_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V61422422_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V61422422_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L70425027_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L70425027_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51420913_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51420913_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F61122061_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F61122061_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V70525114_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V70525114_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L51320867_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L51320867_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51520977_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51520977_3.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F52421422_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F52421422_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P52621438_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P52621438_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V60621821_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V60621821_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P51721039_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P51721039_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L52621448_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L52621448_2.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F70124575_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F70124575_3.jpeg"
+          ]
+        },
+        "TISDC2025_real_視覺_V61622650_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V61622650_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51921135_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51921135_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71528067_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71528067_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51520996_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51520996_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F52421422_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F52421422_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71327003_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71327003_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71126582_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71126582_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V60421755_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V60421755_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V60621815_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V60621815_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71427131_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71427131_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P62924361_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P62924361_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71527422_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71527422_1.jpeg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51420915_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51420915_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51320885_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51320885_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P70926127_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P70926127_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L52621447_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L52621447_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V52121275_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V52121275_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P70926172_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P70926172_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P52621438_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P52621438_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71326885_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71326885_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V70826010_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V70826010_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51921135_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51921135_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V70224840_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V70224840_3.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71427076_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71427076_2.jpeg"
+          ]
+        },
+        "TISDC2025_real_產品_P60921972_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P60921972_3.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71427366_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71427366_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P51520985_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P51520985_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71532181_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71532181_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P70926129_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P70926129_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P63024521_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P63024521_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71327017_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71327017_3.png"
+          ]
+        },
+        "TISDC2025_real_視覺_V71126724_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71126724_2.jpeg"
+          ]
+        },
+        "TISDC2025_real_產品_P71326905_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71326905_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71126582_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71126582_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71532106_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71532106_2.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F70124575_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F70124575_2.jpeg"
+          ]
+        },
+        "TISDC2025_real_產品_P62123490_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P62123490_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L61822832_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L61822832_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51520944_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51520944_2.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F62724217_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F62724217_1.png"
+          ]
+        },
+        "TISDC2025_real_時尚_F71532335_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71532335_3.jpeg"
+          ]
+        },
+        "TISDC2025_real_視覺_V60421755_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V60421755_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P62123490_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P62123490_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V70224790_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V70224790_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V63024525_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V63024525_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P52121228_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P52121228_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51420913_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51420913_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71527460_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71527460_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71326936_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71326936_3.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F62724217_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F62724217_3.png"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71326936_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71326936_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71532338_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71532338_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51320885_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51320885_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51520946_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51520946_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F52221338_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F52221338_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71532188_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71532188_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51621006_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51621006_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71427183_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71427183_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51520946_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51520946_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V52121282_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V52121282_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L70425034_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L70425034_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71326943_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71326943_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L61522430_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L61522430_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71327017_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71327017_2.png"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L61823115_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L61823115_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71532212_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71532212_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71532164_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71532164_2.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F62523860_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F62523860_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V51420913_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51420913_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71326943_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71326943_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L52621448_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L52621448_3.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F60221672_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F60221672_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71427102_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71427102_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P61322232_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P61322232_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71532374_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71532374_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P70926185_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P70926185_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71532156_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71532156_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V61923311_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V61923311_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L62523901_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L62523901_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V70525114_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V70525114_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F62623959_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F62623959_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F61622661_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F61622661_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P52621438_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P52621438_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71026411_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71026411_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P70725808_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P70725808_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71126582_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71126582_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L71532678_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L71532678_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71327003_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71327003_1.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V62323665_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V62323665_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L51320867_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L51320867_3.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71532459_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71532459_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L51320867_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L51320867_2.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71527422_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71527422_2.jpeg"
+          ]
+        },
+        "TISDC2025_real_產品_P71326905_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71326905_2.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71427295_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71427295_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V70826010_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V70826010_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71427076_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71427076_1.jpeg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71427295_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71427295_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71532253_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71532253_1.png"
+          ]
+        },
+        "TISDC2025_real_視覺_V51821107_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V51821107_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P60921972_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P60921972_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V71126738_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V71126738_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L61822861_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L61822861_3.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P51520985_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P51520985_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P62423806_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P62423806_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L63024512_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L63024512_2.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F71527431_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F71527431_3.jpeg"
+          ]
+        },
+        "TISDC2025_real_視覺_V61622650_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V61622650_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71026402_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71026402_2.jpg"
+          ]
+        },
+        "TISDC2025_real_視覺_V60821897_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_視覺_V60821897_1.jpg"
+          ]
+        },
+        "TISDC2025_real_時尚_F70725686_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_時尚_F70725686_1.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L61822832_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L61822832_2.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P71532286_2": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P71532286_2.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L52621450_1": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L52621450_1.jpg"
+          ]
+        },
+        "TISDC2025_real_產品_P51921136_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_產品_P51921136_3.jpg"
+          ]
+        },
+        "TISDC2025_real_建築與景觀_L61522430_3": {
+          "label": "TISDC2025_Real",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_real_建築與景觀_L61522430_3.jpg"
+          ]
+        }
+      }
+    },
+    "1": {
+      "test": {
+        "TISDC2025_fake_拼貼": {
+          "label": "TISDC2025_Fake",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_fake_拼貼.jpg"
+          ]
+        },
+        "TISDC2025_fake_L70725833_1": {
+          "label": "TISDC2025_Fake",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_fake_L70725833_1.jpg"
+          ]
+        },
+        "TISDC2025_fake_P61923312_B5": {
+          "label": "TISDC2025_Fake",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_fake_P61923312_B5.png"
+          ]
+        },
+        "TISDC2025_fake_P70625315_3": {
+          "label": "TISDC2025_Fake",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_fake_P70625315_3.png"
+          ]
+        },
+        "TISDC2025_fake_P62924353_1": {
+          "label": "TISDC2025_Fake",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_fake_P62924353_1.jpg"
+          ]
+        },
+        "TISDC2025_fake_P60921963_1": {
+          "label": "TISDC2025_Fake",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_fake_P60921963_1.jpg"
+          ]
+        },
+        "TISDC2025_fake_P62423738_B5": {
+          "label": "TISDC2025_Fake",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_fake_P62423738_B5.jpg"
+          ]
+        },
+        "TISDC2025_fake_P70625315_2": {
+          "label": "TISDC2025_Fake",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_fake_P70625315_2.png"
+          ]
+        },
+        "TISDC2025_fake_F63024489_1": {
+          "label": "TISDC2025_Fake",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_fake_F63024489_1.png"
+          ]
+        },
+        "TISDC2025_fake_P70826023_1": {
+          "label": "TISDC2025_Fake",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_fake_P70826023_1.jpg"
+          ]
+        },
+        "TISDC2025_fake_P61923312_1": {
+          "label": "TISDC2025_Fake",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_fake_P61923312_1.jpg"
+          ]
+        },
+        "TISDC2025_fake_F71427261_1": {
+          "label": "TISDC2025_Fake",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_fake_F71427261_1.png"
+          ]
+        },
+        "TISDC2025_fake_F60521800_1": {
+          "label": "TISDC2025_Fake",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_fake_F60521800_1.jpg"
+          ]
+        },
+        "TISDC2025_fake_F62924359_3": {
+          "label": "TISDC2025_Fake",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_fake_F62924359_3.jpg"
+          ]
+        },
+        "TISDC2025_fake_L71126600_1": {
+          "label": "TISDC2025_Fake",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_fake_L71126600_1.jpg"
+          ]
+        },
+        "TISDC2025_fake_L70926173_1": {
+          "label": "TISDC2025_Fake",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_fake_L70926173_1.jpg"
+          ]
+        },
+        "TISDC2025_fake_F71427261_2": {
+          "label": "TISDC2025_Fake",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_fake_F71427261_2.png"
+          ]
+        },
+        "TISDC2025_fake_P61222141_1": {
+          "label": "TISDC2025_Fake",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_fake_P61222141_1.jpg"
+          ]
+        },
+        "TISDC2025_fake_L71126593_1": {
+          "label": "TISDC2025_Fake",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_fake_L71126593_1.jpg"
+          ]
+        },
+        "TISDC2025_fake_P61923312_2": {
+          "label": "TISDC2025_Fake",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_fake_P61923312_2.jpg"
+          ]
+        },
+        "TISDC2025_fake_L70725830_1": {
+          "label": "TISDC2025_Fake",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_fake_L70725830_1.jpg"
+          ]
+        },
+        "TISDC2025_fake_插畫": {
+          "label": "TISDC2025_Fake",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_fake_插畫.jpg"
+          ]
+        },
+        "TISDC2025_fake_P70525242_B5": {
+          "label": "TISDC2025_Fake",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_fake_P70525242_B5.jpg"
+          ]
+        },
+        "TISDC2025_fake_P70625315_B5": {
+          "label": "TISDC2025_Fake",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_fake_P70625315_B5.png"
+          ]
+        },
+        "TISDC2025_fake_F71427261_B5": {
+          "label": "TISDC2025_Fake",
+          "frames": [
+            "/home/ee303/Documents/agbld/GitHub/Effort-AIGI-Detection/datasets/TISDC2025/TISDC2025_fake_F71427261_B5.png"
+          ]
+        }
+      }
+    }
+  }
+}

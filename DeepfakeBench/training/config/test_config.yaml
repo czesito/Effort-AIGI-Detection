@@ -2,7 +2,7 @@ mode: test
 lmdb: False
 dataset_root_rgb: './datasets'
 lmdb_dir:  'I:\transform_2_lmdb'
-dataset_json_folder: '/Youtu_Pangu_Security_Public/youtu-pangu-public/zhiyuanyan/DeepfakeBenchv2/preprocessing/dataset_json'
+dataset_json_folder: './preprocessing/dataset_json'
 
 # label settings
 label_dict:
@@ -230,3 +230,7 @@ label_dict:
   
   VIP_Real: 0
   VIP_Fake: 1
+
+  # TISDC2025
+  TISDC2025_Real: 0
+  TISDC2025_Fake: 1
