@@ -1,6 +1,8 @@
 models/
 datasets/
 DeepfakeBench/training/weights/*.pth
+DeepfakeBench/training/my_results/
+*screenlog.*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -31,7 +31,7 @@ from sklearn.metrics import confusion_matrix, accuracy_score, precision_score, r
 
 """
 Usage:
-    python infer.py \
+    python demo.py \
         --detector_config ./training/config/detector/effort.yaml \
         --weights ../../DeepfakeBenchv2/training/weights/easy_clipl14_cdf.pth \
         --image ./id9_id6_0009.jpg \
@@ -301,34 +301,33 @@ def parse_args():
                    help="Path to image file or directory (with 'real' and 'fake' subdirectories for ground truth)")
     p.add_argument("--landmark_model", default=False,
                    help="dlib 81 landmarks dat 文件 / 如果不需要裁剪人脸就是False")
-    p.add_argument("--output", default=None,
-                   help="Output file path for results (e.g., results.csv or results.json)")
-    p.add_argument("--output_format", default="csv", choices=["csv", "json"],
-                   help="Output format: csv or json (default: csv)")
+    p.add_argument("--results_dir", default=None,
+                   help="Output directory for all results (CSV, JSON, metrics). Default: ./inference_results_<timestamp>")
     return p.parse_args()
 
 
-def export_results(results: List[Dict], output_path: str, format: str = "csv"):
-    """Export inference results to file"""
-    output_path = Path(output_path)
-    output_path.parent.mkdir(parents=True, exist_ok=True)
+def export_results(results: List[Dict], results_dir: Path):
+    """Export inference results to both CSV and JSON formats in the results directory"""
+    results_dir.mkdir(parents=True, exist_ok=True)
     
-    if format == "csv":
-        with open(output_path, 'w', newline='', encoding='utf-8') as f:
-            if results:
-                writer = csv.DictWriter(f, fieldnames=results[0].keys())
-                writer.writeheader()
-                writer.writerows(results)
-        print(f"\n[✓] Results exported to: {output_path}")
+    # Export CSV
+    csv_path = results_dir / "results.csv"
+    with open(csv_path, 'w', newline='', encoding='utf-8') as f:
+        if results:
+            writer = csv.DictWriter(f, fieldnames=results[0].keys())
+            writer.writeheader()
+            writer.writerows(results)
+    print(f"[✓] Results CSV exported to: {csv_path}")
     
-    elif format == "json":
-        with open(output_path, 'w', encoding='utf-8') as f:
-            json.dump({
-                "timestamp": datetime.now().isoformat(),
-                "total_images": len(results),
-                "results": results
-            }, f, indent=2)
-        print(f"\n[✓] Results exported to: {output_path}")
+    # Export JSON
+    json_path = results_dir / "results.json"
+    with open(json_path, 'w', encoding='utf-8') as f:
+        json.dump({
+            "timestamp": datetime.now().isoformat(),
+            "total_images": len(results),
+            "results": results
+        }, f, indent=2)
+    print(f"[✓] Results JSON exported to: {json_path}")
 
 
 def calculate_metrics(results: List[Dict]):
@@ -438,14 +437,17 @@ def main():
     img_label_pairs = collect_image_paths_with_labels(args.image)
     has_ground_truth = any(label is not None for _, label in img_label_pairs)
     
-    # Prepare output file path
-    if args.output is None:
+    # Prepare results directory
+    if args.results_dir is None:
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        output_dir = Path("inference_results")
-        output_dir.mkdir(exist_ok=True)
-        args.output = output_dir / f"results_{timestamp}.{args.output_format}"
+        results_dir = Path(f"inference_results_{timestamp}")
+    else:
+        results_dir = Path(args.results_dir)
+    
+    results_dir.mkdir(parents=True, exist_ok=True)
     
     print(f"[✓] Processing {len(img_label_pairs)} image(s)...")
+    print(f"[✓] Results directory: {results_dir.absolute()}")
     if has_ground_truth:
         print(f"[✓] Ground truth labels detected from folder structure")
     
@@ -487,7 +489,10 @@ def main():
         results.append(result)
     
     # Export results
-    export_results(results, args.output, args.output_format)
+    print(f"\n{'='*60}")
+    print("EXPORTING RESULTS:")
+    print(f"{'='*60}")
+    export_results(results, results_dir)
     
     # Calculate and display metrics if ground truth is available
     if has_ground_truth:
@@ -495,14 +500,14 @@ def main():
         if metrics:
             print_metrics(metrics)
             
-            # Export metrics separately
-            metrics_path = Path(args.output).parent / f"{Path(args.output).stem}_metrics.json"
+            # Export metrics to results directory
+            metrics_path = results_dir / "results_metrics.json"
             # Convert numpy arrays to lists for JSON serialization
             metrics_export = {k: (v.tolist() if isinstance(v, np.ndarray) else v) 
                             for k, v in metrics.items()}
             with open(metrics_path, 'w') as f:
                 json.dump(metrics_export, f, indent=2)
-            print(f"\n[✓] Metrics exported to: {metrics_path}")
+            print(f"[✓] Metrics exported to: {metrics_path}")
     
     # Print summary
     successful = sum(1 for r in results if r["status"] == "success")
@@ -526,6 +531,8 @@ def main():
             accuracy = correct_count / total_with_gt
             print(f"  Correct:           {correct_count}/{total_with_gt} ({accuracy*100:.2f}%)")
     
+    print(f"{'='*60}")
+    print(f"\nAll results saved to: {results_dir.absolute()}")
     print(f"{'='*60}")
 
 
